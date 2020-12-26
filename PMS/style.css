@@ -1,0 +1,41 @@
+*{
+ /* background-color: red;*/
+}
+.bg{
+  background-image:  linear-gradient(rgb(0,0,0,0.6),rgb(0,0,0,0.6),url(images/pic1.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+
+.form-container{
+background-image:linear-gradient(rgb(0,0,0,0.4),rgb(0,0,0,0.4)),url(images/pic2.jpg);
+padding: 30px;
+border-radius: 10px;
+box-shadow: 0px 0px 10px 0px #000;
+
+}
+.easypiechart-panel {
+    text-align: center;
+    padding: 1px 0;
+    margin-bottom: 20px;
+
+}
+ .heading {
+    color: #FFF;
+    border-color: #FFF;
+    font-weight: bold;
+    background-color: #0866C6;
+    font-size: 16px;
+    text-shadow: none;
+}
+div.dataTables_length label {
+    float: left;
+    text-align: left;
+    font-weight: normal;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
